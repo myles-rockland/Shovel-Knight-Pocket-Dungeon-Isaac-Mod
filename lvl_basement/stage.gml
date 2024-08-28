@@ -1,4 +1,5 @@
-lvl_id = "basement";
+//lvl_id = "basement";
+lvl_id = "plains";
 lvl_name = "basement";
 lvl_frame = "../prefabs/stage_frame.png";
 lvl_floor = "sFloorBasement.png";
